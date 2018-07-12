@@ -33,7 +33,7 @@ export default class Header extends React.Component {
         </span>
         <span className="item">
           <Link to="/applications">
-            Job Application History
+            Application History
           </Link>
         </span>
         <span className="item">

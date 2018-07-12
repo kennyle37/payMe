@@ -69,7 +69,7 @@ export default class MilestoneUpdate extends React.Component {
               />
               <br />
               <b>
-                {'Job Description'}
+                {'Description'}
               </b>
               <input
                 onChange={this.handleChange}
